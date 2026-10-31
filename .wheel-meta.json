@@ -1,0 +1,22 @@
+{
+  "wheel_id": 578,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-107",
+  "project": "fencing-toowoomba-local-options-compared-d05f0a49dab47b79837c9b",
+  "parent_t1_ref": "toowoombafencing-153",
+  "node_role": "feeder",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing toowoomba local options compared",
+  "intended_url": "https://sitesau.github.io/toowoombafencing-107/",
+  "tier": "T2",
+  "writeback_nonce": "bc177ade467dfb28",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/fencing-toowoomba-e403fd8cfa6c2d86a41946d075a0a993a90f8939/",
+      "anchor": "fencing toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
